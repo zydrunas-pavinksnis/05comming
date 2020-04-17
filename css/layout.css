@@ -1,0 +1,11 @@
+.container {
+    width: 100%;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #fff;
+}
+    .container > .row {
+        width: 1000px;
+        margin-left: calc(50% - 500px);
+        background-color: yellow;
+    }
